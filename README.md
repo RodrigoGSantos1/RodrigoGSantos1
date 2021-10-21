@@ -25,3 +25,7 @@
   <img align="center" alt="STYLED-COMPONENTS" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
   <br/>
 </div>
+
+<br/>
+
+![Snake animation](https://github.com/rodrigogsantos1/rodrigogsantos1/blob/output/github-contribution-grid-snake.svg)
